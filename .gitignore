@@ -1,0 +1,20 @@
+# Credenciales y variables de entorno
+.env
+.env.local
+.env.production
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencias
+node_modules/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Sistema
+.DS_Store
+Thumbs.db
