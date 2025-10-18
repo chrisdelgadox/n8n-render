@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "n8n on Render with Neon",
   "scripts": {
-    "start": "n8n start"
+    "start": "n8n start --port $PORT"
   },
   "dependencies": {
     "n8n": "^1.0.0"
